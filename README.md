@@ -1,8 +1,8 @@
 # Win your first bounty tonight: a newcomer's guide to make.fun
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/nazmul-hassan/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
-[![reward](https://make.fun/badge/bring-the-humans-02/nazmul-hassan/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/nazmulweb3/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
+[![reward](https://make.fun/badge/bring-the-humans-02/nazmulweb3/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
 > **Start here:** sign up with my link — **[https://make.fun/r/xvkrvw1c](https://make.fun/r/xvkrvw1c)**
 >
